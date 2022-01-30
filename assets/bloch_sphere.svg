@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281943+c3084ef5ed)"
+   sodipodi:docname="bloch_sphere.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0870426"
+     inkscape:cx="526.65829"
+     inkscape:cy="844.95309"
+     inkscape:window-width="1366"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.28163702;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.28163702,1.68982209;stroke-dashoffset:0;stroke-opacity:1"
+       id="path62504"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="matrix(0.99997946,-0.00640932,0.00767493,0.99997055,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="150.29976"
+       sodipodi:cy="207.28503"
+       sodipodi:rx="19.533731"
+       sodipodi:ry="3.6340811"
+       sodipodi:start="3.403392"
+       sodipodi:end="6.0213859"
+       sodipodi:arc-type="arc"
+       d="m 131.43162,206.34446 a 19.533731,3.6340811 0 0 1 18.86814,-2.69351 19.533731,3.6340811 0 0 1 18.86813,2.69351"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#a02c89;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.504226,106.22776 12.50823,16.23527"
+       id="path11337"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.273;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle1065"
+       cx="54.467297"
+       cy="106.10335"
+       rx="16.001499"
+       ry="26.625725"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:#00aad4;stroke:#0088aa;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 54.504224,132.68609 V 105.18474"
+       id="path1273"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <ellipse
+       style="fill:none;stroke:#d40000;stroke-width:0.327833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.327833, 1.31133199;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse42115"
+       cx="54.467297"
+       cy="93.028862"
+       rx="22.813259"
+       ry="4.4315181"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 54.504224,106.22776 69.438569,96.379794"
+       id="path983"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.383328;stroke-linecap:round"
+       id="circle868"
+       cx="54.467297"
+       cy="106.10335"
+       rx="26.675062"
+       ry="5.1816807"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="52.677216"
+       y="78.178261"
+       id="text2831"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan2829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font';stroke-width:0.264583"
+         x="52.677216"
+         y="78.178261">NO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="51.536358"
+       y="136.43929"
+       id="text2831-1"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan2829-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'FiraCode Nerd Font';-inkscape-font-specification:'FiraCode Nerd Font';stroke-width:0.264583"
+         x="51.536358"
+         y="136.43929">YES</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 54.504224,106.22776 H 80.92692"
+       id="path9244"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 54.504224,106.22776 15.694021,4.10227"
+       id="path9395"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:round"
+       id="path866"
+       cx="54.467297"
+       cy="106.10335"
+       r="26.529724"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#ff6600;stroke:none;stroke-width:0.273;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1092-8"
+       cx="70.233932"
+       cy="110.38211"
+       r="0.62890655"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 54.504224,92.469429 14.934345,3.910365"
+       id="path9824"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#d40000;stroke:none;stroke-width:0.273;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1092"
+       cx="69.425179"
+       cy="96.444748"
+       r="0.62890655"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#0088aa;stroke:none;stroke-width:0.145195;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.145195, 0.29039;stroke-dashoffset:0"
+       id="path10970"
+       cx="54.504223"
+       cy="79.57634"
+       r="0.81962699"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#00d455;stroke:none;stroke-width:0.145195;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.145195, 0.29039;stroke-dashoffset:0"
+       id="path10970-4"
+       cx="54.439419"
+       cy="132.68881"
+       r="0.81962699"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.264583, 0.529166;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 54.549313,118.04018 12.463143,4.42285"
+       id="path11250"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#aa0088;stroke:none;stroke-width:0.273;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1092-81"
+       cx="66.959167"
+       cy="122.49232"
+       r="0.62890655"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       d="M 0.074745,0 V -25.389631"
+       style="fill:#00aad4;stroke:#0088aa;stroke-width:0.14949;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12458" />
+    <path
+       d="M 54.504224,105.18474 V 79.795109"
+       style="fill:#00aad4;stroke:#0088aa;stroke-width:0.549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12458-3"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="path35136"
+       style="fill:none;stroke:#000000;stroke-width:1.03181006;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:1.03181006,6.19086035;stroke-dashoffset:0"
+       d="M 319.68233 940.28484 A 60.478107 100.63266 0 0 1 317.49545 940.35065 A 60.478107 100.63266 0 0 1 257.01735 839.71799 A 60.478107 100.63266 0 0 1 317.49545 739.08533 A 60.478107 100.63266 0 0 1 319.68149 739.15109 "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       id="circle1065-6"
+       style="fill:none;stroke:#000000;stroke-width:1.03181;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 319.68149 739.15109 A 60.478107 100.63266 0 0 1 377.97356 839.71799 L 377.97356 839.71799 A 60.478107 100.63266 0 0 1 319.68233 940.28484 "
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.040935,222.2998 -9.822113,20.92979"
+       id="path10542"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.383328;stroke-linecap:round"
+       id="circle868-5"
+       cx="84.004005"
+       cy="222.17538"
+       rx="26.675062"
+       ry="5.1816807"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 84.040935,222.2998 H 110.46363"
+       id="path9244-2"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:round"
+       id="path866-0"
+       cx="84.004005"
+       cy="222.17538"
+       r="26.529724"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#0088aa;stroke:none;stroke-width:0.145195;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.145195, 0.29039;stroke-dashoffset:0"
+       id="path10970-0"
+       cx="84.040932"
+       cy="195.64838"
+       r="0.81962699"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       d="M 84.040935,222.31511 V 195.86715"
+       style="fill:#00aad4;stroke:#0088aa;stroke-width:0.549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path12458-3-1"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#0088aa;fill-opacity:1;stroke:none;stroke-width:0.549;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path12634"
+       cx="91.209808"
+       cy="87.715492"
+       r="1.7351965"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.549;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle12898"
+       cx="91.209808"
+       cy="98.29882"
+       r="1.7351965"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.549;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="circle12900"
+       cx="91.209808"
+       cy="108.88216"
+       r="1.7351965"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#aa0088;fill-opacity:1;stroke:none;stroke-width:0.549;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle12902"
+       cx="91.209808"
+       cy="119.46547"
+       r="1.7351965"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="100.95867"
+       y="80.728378"
+       id="text41637"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan41635"
+         style="stroke-width:0.264583"
+         x="100.95867"
+         y="80.728378">p(YES)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="122.32378"
+       y="80.728378"
+       id="text49900"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan49898"
+         style="stroke-width:0.264583"
+         x="122.32378"
+         y="80.728378">p(NO)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="103.09342"
+       y="88.464851"
+       id="text51470"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51468"
+         style="stroke-width:0.264583"
+         x="103.09342"
+         y="88.464851">0%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="122.58345"
+       y="88.464851"
+       id="text51474"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51472"
+         style="stroke-width:0.264583"
+         x="122.58345"
+         y="88.464851">100%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="102.25626"
+       y="99.048187"
+       id="text51478"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51476"
+         style="stroke-width:0.264583"
+         x="102.25626"
+         y="99.048187">25%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="123.44619"
+       y="99.048187"
+       id="text51482"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51480"
+         style="stroke-width:0.264583"
+         x="123.44619"
+         y="99.048187">75%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="102.26634"
+       y="109.63153"
+       id="text51486"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51484"
+         style="stroke-width:0.264583"
+         x="102.26634"
+         y="109.63153">50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="123.44464"
+       y="109.63153"
+       id="text51490"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51488"
+         style="stroke-width:0.264583"
+         x="123.44464"
+         y="109.63153">50%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="102.26789"
+       y="120.21487"
+       id="text51494"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51492"
+         style="stroke-width:0.264583"
+         x="102.26789"
+         y="120.21487">75%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="123.43456"
+       y="120.21487"
+       id="text51498"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan51496"
+         style="stroke-width:0.264583"
+         x="123.43456"
+         y="120.21487">25%</tspan></text>
+    <path
+       style="fill:none;stroke:#536c5d;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 99.836503,82.247529 H 133.36992"
+       id="path66142"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#00d455;fill-opacity:1;stroke:none;stroke-width:0.549;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle93358"
+       cx="91.209808"
+       cy="130.04883"
+       r="1.7351965"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="101.40515"
+       y="130.7982"
+       id="text93362"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan93360"
+         style="stroke-width:0.264583"
+         x="101.40515"
+         y="130.7982">100%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;stroke-width:0.264583"
+       x="124.27172"
+       y="130.7982"
+       id="text93366"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/bloch_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan93364"
+         style="stroke-width:0.264583"
+         x="124.27172"
+         y="130.7982">0%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'Eurostile Extended';-inkscape-font-specification:'Eurostile Extended';letter-spacing:0px;fill:#0088aa;fill-opacity:1;stroke-width:0.264583"
+       x="82.255371"
+       y="193.63516"
+       id="text6921"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan6919"
+         style="fill:#0088aa;fill-opacity:1;stroke-width:0.264583"
+         x="82.255371"
+         y="193.63516">Q</tspan></text>
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.040935,222.31511 9.189729,-21.7843"
+       id="path10507"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path18836"
+       cx="93.230659"
+       cy="200.53081"
+       r="0.97674656"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'Eurostile Extended';-inkscape-font-specification:'Eurostile Extended';letter-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       x="94.850327"
+       y="201.90152"
+       id="text29520"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_overlap.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan29518"
+         style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+         x="94.850327"
+         y="201.90152">S</tspan></text>
+    <path
+       id="path36673"
+       style="fill:none;stroke:#000000;stroke-width:0.273;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 140.89945,199.57382 a 26.625724,16.001499 64.218199 0 1 25.46101,17.25144 v 0 a 26.625724,16.001499 64.218199 0 1 -2.31448,30.66775"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.383328;stroke-linecap:round"
+       id="ellipse36677"
+       cx="150.37851"
+       cy="224.84526"
+       rx="26.675062"
+       ry="5.1816807"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="rotate(-0.4018553)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.03917,223.881 23.7925,-11.49242"
+       id="path36679"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.865;stroke-linecap:round"
+       id="circle36681"
+       cx="39.491852"
+       cy="267.59949"
+       r="26.529724"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="rotate(-25.781801)" />
+    <path
+       d="m 152.04583,223.89479 -20.271,-17.56375"
+       style="fill:#00aad4;stroke:#0088aa;stroke-width:0.549;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path36685"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'Eurostile Extended';-inkscape-font-specification:'Eurostile Extended';letter-spacing:0px;fill:#0088aa;fill-opacity:1;stroke-width:0.264583"
+       x="128.35123"
+       y="204.38387"
+       id="text36689"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="rotate(-0.00174344)"><tspan
+         sodipodi:role="line"
+         id="tspan36687"
+         style="fill:#0088aa;fill-opacity:1;stroke-width:0.264583"
+         x="128.35123"
+         y="204.38387">Q</tspan></text>
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.04583,223.89479 -0.3537,-23.11581"
+       id="path36691"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.281637;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.281637, 1.12655;stroke-dashoffset:0;stroke-opacity:1"
+       id="ellipse42641"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="matrix(0.99997946,-0.00640932,0.00767493,0.99997055,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="150.29976"
+       sodipodi:cy="207.28503"
+       sodipodi:rx="19.533731"
+       sodipodi:ry="3.6340811"
+       sodipodi:start="0"
+       sodipodi:end="3.2522125"
+       sodipodi:arc-type="arc"
+       d="m 169.83349,207.28503 a 19.533731,3.6340811 0 0 1 -10.39714,3.21206 19.533731,3.6340811 0 0 1 -20.12333,-0.20728 19.533731,3.6340811 0 0 1 -8.4276,-3.40596"
+       sodipodi:open="true" />
+    <circle
+       style="fill:#0088aa;stroke:none;stroke-width:0.145195;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.145195, 0.29039;stroke-dashoffset:0"
+       id="circle36683"
+       cx="28.9613"
+       cy="242.983"
+       r="0.81962699"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="rotate(-25.781801)" />
+    <circle
+       style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.665001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle36693"
+       cx="49.459042"
+       cy="246.41283"
+       r="0.97674656"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="rotate(-25.781801)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'Eurostile Extended';-inkscape-font-specification:'Eurostile Extended';letter-spacing:0px;fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+       x="159.1747"
+       y="195.53812"
+       id="text36697"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="rotate(1.6777919)"><tspan
+         sodipodi:role="line"
+         id="tspan36695"
+         style="fill:#d40000;fill-opacity:1;stroke-width:0.264583"
+         x="159.1747"
+         y="195.53812">S</tspan></text>
+    <path
+       style="fill:none;stroke:#aa00d4;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 152.04583,223.89479 9.94827,-14.21835"
+       id="path37087"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <circle
+       style="fill:#aa00d4;fill-opacity:1;stroke:#000000;stroke-width:0.665001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+       id="path41954"
+       cx="161.931"
+       cy="209.44766"
+       r="0.98773903"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:1.25;font-family:'Eurostile Extended';-inkscape-font-specification:'Eurostile Extended';letter-spacing:0px;stroke-width:0.264583;fill:#aa00d4;fill-opacity:1"
+       x="162.49963"
+       y="207.7572"
+       id="text57836"
+       inkscape:export-filename="/run/user/1000/gvfs/sftp:host=ist_desktop,user=miguelmurca/home/miguelmurca/Documents/universidade/iquhack/QFlat/assets/qs_alternative.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         id="tspan57834"
+         style="stroke-width:0.264583;fill:#aa00d4;fill-opacity:1"
+         x="162.49963"
+         y="207.7572">C</tspan></text>
+  </g>
+</svg>
